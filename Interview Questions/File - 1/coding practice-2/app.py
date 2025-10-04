@@ -20,4 +20,4 @@ def main():
 if __name__ == "__main__":
     main()
 
-#if you want to run this code you need the path correctly where you saved this file gso to that path or directory
+#if you want to run this code you need the path correctly where you saved this file go to that path or directory
