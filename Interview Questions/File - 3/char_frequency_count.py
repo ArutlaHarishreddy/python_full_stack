@@ -10,8 +10,8 @@ def char_frequency(s):
         else:
             freq[char]=1
     return freq
-s="programming"
-print(char_frequency(s))
+text="programming"      #we can put what ever variable it will work
+print(char_frequency(text))
 
 
 #method-2
