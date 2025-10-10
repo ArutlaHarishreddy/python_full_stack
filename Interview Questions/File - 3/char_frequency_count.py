@@ -21,3 +21,5 @@ def char_freq(s):
 s="Harish Reddy.Arutla"
 text=s.lower()
 print(char_freq(text))
+
+
