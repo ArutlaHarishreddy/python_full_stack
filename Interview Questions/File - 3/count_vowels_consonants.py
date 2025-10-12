@@ -14,4 +14,3 @@ s="programming language is pyhton"
 v,c=count_vowel_consonant(s)
 print("Vowels:",v)
 print("consonants:",c)
-

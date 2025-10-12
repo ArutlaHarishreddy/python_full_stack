@@ -12,4 +12,3 @@ print(flatten)
 def flatten(nested):
     return [flat for sublist in nested for flat in sublist]
 print(flatten(nested))
-

@@ -10,3 +10,18 @@ def is_palindrome(word:str)->bool:
 print(is_palindrome("harisirah"))
 print(is_palindrome("madam"))
 print(is_palindrome("Harish"))
+
+
+#Normal Palindrome
+n=int(input("Enter the number"))
+original=n
+rev=0
+while n>0:
+    rem=n%10
+    n=n//10
+    rev=rev*10+rem
+print(rev)
+if original==rev:
+    print("Palindrome")
+else:
+    print("Not palindrome")
