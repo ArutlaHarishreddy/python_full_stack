@@ -198,11 +198,20 @@ python questions
 2)what is assert
 
 
+10-10
 
+1)what is responsive model as a IT developer or engineer?
+2)
 
+13-10
 
+1)how many virtual port are there
+2)Naukri, monster , indeed, linkedin
+3)
 
+15-10
 
+1) what is the another name of server like uvicorn 
 
 
 
