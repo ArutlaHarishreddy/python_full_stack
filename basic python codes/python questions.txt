@@ -212,8 +212,10 @@ python questions
 15-10
 
 1) what is the another name of server like uvicorn 
-
-
+2)what is api gateway
+3)what is firewall
+4)program to demonstrate what is IS a and HAS a?
+5)
 
 
 
