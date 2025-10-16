@@ -66,7 +66,7 @@ if __name__ == "__main__":
         col_val += 1
         if col_val > 3:
             col_val = 0
-            row_val += 1
+            row_val += 1 #
 
     # Clear button
     clear_btn = tk.Button(root, text="C", padx=20, pady=20, font=('Arial', 14), bg="tomato", command=clear)
