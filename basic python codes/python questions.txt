@@ -215,7 +215,9 @@ python questions
 2)what is api gateway
 3)what is firewall
 4)program to demonstrate what is IS a and HAS a?
-5)
+5)do work on fastapi
+6)what is Oauth2
+7)
 
 
 
