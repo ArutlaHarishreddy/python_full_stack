@@ -219,6 +219,11 @@ python questions
 6)what is Oauth2
 7)
 
+16-10
+
+1)in functions what is variable length parameters
+2)
+
 
 
 
