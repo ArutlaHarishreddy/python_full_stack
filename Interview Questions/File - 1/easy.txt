@@ -92,13 +92,11 @@ eg: Extend(): Adds multiple elements from an iterable(like another list, tuple, 
 
 9)Explain **shallow copy vs deep copy** in Python.
 
-->In python, shallow copy and deep copy are two distinct methods for creating copies of objects, particularly when dealing with
-  mutable data structures and nested objects
- ->Shallow copy:we can create an object reference of original object data and when we modify the reference object data 
-   the original will also changes the data like reference object data.
+->In python, shallow copy and deep copy are two distinct methods for creating copies of objects, particularly when dealing with mutable data structures and nested objects
+ ->Shallow copy: we can create an object reference of original object data and when we modify the reference object data the original will also changes the data like reference object data.
 eg:import copy
    original=[[1,2],[3,4]]
-   shallow_copy=copy.copy(origianl)
+   shallow_copy=copy.copy(original)
    shallow_copy[1][1]=99
    print(original)      #it prints [[1,2],[3,99]] here original also changed
    print(shallow_copy)   #it prints [[1,2],[3,99]] here is the reference which is directly changed.
@@ -113,11 +111,10 @@ eg: import copy
 
 10) How does python handles memory management(garbage collection)?
 
--> Python automatically manages memory. Python memory management is largely automatic, combining the immediate deallocation
-   of reference counting with the more comprehensive. It uses a combination of:
+-> Python automatically manages memory. Python memory management is largely automatic, combining the immediate deallocation of reference counting with the more comprehensive. It uses a combination of:
    ->reference counting 
    ->Garbage collection for cyclic references 
-   ->Private heap and memory management
+   ->Private heap and memory management  
 
 
 

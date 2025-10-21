@@ -7,9 +7,9 @@ eg: def function_name():
  	return add 
     print(function_name())
 -> functions helps in reusability, readability, and modularity.
-Difference between arges and kwargs:Both are used in function definitions when you dont know in advance how many arguments or parameters will be passed.
+Difference between args and kwargs: Both are used in function definitions when you don't know in advance how many arguments or parameters will be passed.
 ->*args:(Arbitrary Positional Arguments)
-  -it collects extra positional arguments as tuple, use it when you want to pass a variable number  of arguments.
+  -it collects extra positional arguments as tuple, use it when you want to pass a variable number of arguments.
 eg: def add_numbers(*args):
     	return sum(args)
     print(add_numbers(1,2,3)) #it prints 6
@@ -19,7 +19,7 @@ eg: def add_numbers(*args):
 eg: def print_details(**kwargs):
     	for key, value in kwargs.items():
 		print(f"{key}:{value}")
-    print_details(name="harish",age=21)
+    print(print_details(name="harish",age=21))
 
 2)Explain **decorators** in Python with an example.
 ->A decorator is a function it used another function as input, adds some functionality to it, and returns a new function as it called wrapper, it is used in extra code without modifying or changing the original source code.
@@ -138,7 +138,7 @@ print(Validator.is_even(7))   # False
 ->A class method is a method that works on the class itself, not on the self(instances).
   It takes cls(class) as the first parameter instead of self(instance) and we should use in decorators as
     @classmethod
-eg: class Student():
+eg: class Student:
         school="Gitam University"
         @classmethod
         def get_school(cls):
@@ -173,6 +173,7 @@ print(Student.add(5,5))                            #output:10
 print(Student.get_school())                        #output:Gitam University
 
 7)Explain **Python’s OOP concepts**: inheritance, polymorphism, encapsulation, abstraction?
+
 -->Inheritance: One class(child) can inherit properties and methods from another class(Parent). This promotes code reuse.
 eg:class Animal:  # Parent class
     def speak(self):
