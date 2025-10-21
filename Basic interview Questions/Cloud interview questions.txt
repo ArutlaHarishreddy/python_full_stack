@@ -1,0 +1,46 @@
+1)What is cloud computing, AWS, GCP and web application?
+-->cloud computing is the delivery of computing services like servers, storage, databases, networking, software and analytics - over the internet(the cloud) instead of local computers or personal servers.
+ --Instead of buying and maintaining your own hardware and software, we can rent computing resources from cloud providers.
+ex: we can host a website on our laptop and we can upload it to cloud server like AWS or GCP that runs 24/7 and anyone can access it
+Advantages
+-cost effective : Pay only for what you use
+-Scalable: Easily increase or decrease capacity
+-Reliable: Data is backed up and secure
+-Accessible: Available anywhere in the internet
+
+-->Amazon web services(AWS)
+-AWS is also a cloud computing platform, It is one of the largest and most popular tool in the world.
+  --it provides such services i.e.:
+   -EC2: Virtual servers for hosting applications
+   -S3: Cloud storage for files and data
+   -RDS: Managed Databases like MySQL, PostgreSQL
+   -Lambda: Serverless computing 
+   -cloudFront: Content Delivery Network(CDN)
+
+ex: we can host our portfolio website on Amazon EC2, store user-images and videos in S3, and manage user data in RDS.
+
+-->Google cloud platform(GCP)
+ - GCP is google cloud computing platform, similar to AWS, offering cloud services for computing, storage databases, AI and more...
+   common servers
+   -compute engine: virtual machines like (AWS EC2)
+   -cloud storage: Object storage (like AWS S3)
+   -BigQuery: Data Analytics
+   -Firebase: Hosting and backend for web/mobile apps
+   -App Engine: Platform for deploying web apps easily
+
+-->Web Applications
+  -A web application is a program that runs on server and users can access it through browsing like chrome, browser..
+ex: Gmail, Facebook, Youtube, Instagram, Amazon, ours Portfolio
+  -Structure of web application:
+    -Frontend: What users see-- built with HTML, CSS, JS
+    -Backend: Handles data and logic -- built with python, NodeJs, PHP, etc..
+    -Database: Stores data -- Like MySQL
+    -Deployment: Usually done on a cloud platform like AWS or GCP
+
+2)what is microservice?
+-->A microservice is small, independent part of a larger application that does specific job and can run on its own.
+ -In other words- Instead of building one big application like monolithic, you can build many small services, each handling a specific function, and they communicate with each other with APIs
+
+
+
+
