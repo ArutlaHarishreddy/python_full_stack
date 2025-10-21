@@ -39,8 +39,6 @@ ex: Gmail, Facebook, Youtube, Instagram, Amazon, ours Portfolio
 
 2)what is microservice?
 -->A microservice is small, independent part of a larger application that does specific job and can run on its own.
- -In other words- Instead of building one big application like monolithic, you can build many small services, each handling a specific function, and they communicate with each other with APIs
-
-
+ -In other words- Instead of building one big application like monolithic, you can build many small services, each handling a specific function, and they communicate with each other with APIs.
 
 
