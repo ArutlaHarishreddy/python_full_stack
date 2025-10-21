@@ -41,4 +41,43 @@ ex: Gmail, Facebook, Youtube, Instagram, Amazon, ours Portfolio
 -->A microservice is small, independent part of a larger application that does specific job and can run on its own.
  -In other words- Instead of building one big application like monolithic, you can build many small services, each handling a specific function, and they communicate with each other with APIs.
 
+3)what are the features of a website?
+--> A feature is any functionality or element that improves how users interact with or experience a website.
+  -In simple: Features= what the website can do and how it behaves for users.
+ -- Based on the websites it have different kind of features such as:
+  -Basic Features: Homepage , Navigation menu, content pages, Fast loading speed....
+  -User Experience Features: clean design, Interactive elements, Accessibility, search functionality...
+  -User Interaction Features: Forms, Reviews, chat support, User Authentication, notifications.....
+  -Functional/Dynamic Features: Database integration, admin panel, e-commerce functionality...
+  -Security features: HTTPS(SSL certificate), User Authentication, Data Validation, Firewall/Attack protection....
+  -Performance and Analytics: CDN(content delivery network), google analytics, error logs/monitoring...
+  -Modern/Advanced Features: Animations, Dark themes, Recommendations, voice search or commands...
+
+ex: In a Portfolio website: Homepage, project section, skills section, 	Resume download link, contact form, social media...
+
+4)what is AWS, Lambda, Kinesis?
+--> AWS(Amazon web services) It is Amazon cloud computing platform- it provides on demand IT services like
+   -servers(EC2)
+   -Storage(S3)
+   -Databases(RDS)
+   -Serverless computing(Lambda)
+   -Streaming and data processing(Kinesis)
+  -In simple terms AWS lets you rent computers, storage, and other services over the internet- instead of owning physically.
+
+-->Amazon's Lambda: It is a server less computing service.
+   -it lets you run your code without managing servers. You can just upload your function or code , and AWS runs it automatically when triggered- you pay only for the time your code runs.
+   -In simple - Lambda = Run code in the cloud without worrying  about servers.
+
+-->Amazons Kinesis: AWS kinesis is real time data streaming service.
+  -it collects, processes, and analyzes large streams of data real time.
+  -Kinesis = AWS service for handling continuous data streams - like live video, sensor data or app logs.
+
+5)What is LLM?
+--> LLM stands for Large Language Model is a type of AI model that can understand, generate and interact using human language like English, Telugu...
+  -In simple An LLM is computer program trained to read, write, and understand text like a human do.
+
+6)What is vibe coding?
+-->Vibe Coding is a relatively new software-development paradigm where instead of writing code line-by-line yourself, you describe what you want in natural language, and a large language model (LLM) or AI tool generates the code for you. The role of the human shifts from authoring code to guiding, prompting, testing and refining AI-generated code.
+
+7)
 
