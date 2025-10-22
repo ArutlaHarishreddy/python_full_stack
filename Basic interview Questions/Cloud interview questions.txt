@@ -79,5 +79,15 @@ ex: In a Portfolio website: Homepage, project section, skills section, 	Resume d
 6)What is vibe coding?
 -->Vibe Coding is a relatively new software-development paradigm where instead of writing code line-by-line yourself, you describe what you want in natural language, and a large language model (LLM) or AI tool generates the code for you. The role of the human shifts from authoring code to guiding, prompting, testing and refining AI-generated code.
 
-7)
+7)what is the difference between Gemini, chatgpt, perplexity, grok and deepseek?
+-->ChatGPT: Developed by OpenAI. It’s a conversational AI/chatbot built on large-language models (“GPT” = Generative Pre-Trained Transformer). 
+ It is meant to answer questions, generate text/code, chat in natural language.
+
+-->Gemini: Google / DeepMind’s model and chatbot (formerly Bard) — a multimodal LLM (handles text, images, etc) and integrated into Google search/apps. 
+
+-->Perplexity AI: A conversational/search assistant that combines generative LLM capabilities + web search + citations. It is more oriented toward answering queries with sources. 
+
+-->Grok-3 (or Grok): A model/chatbot from xAI (Elon Musk) intended as a competitor in the AI arms race. 
+
+-->DeepSeek: A Chinese AI startup producing large-language models (LLMs) and chatbots, with a focus on cost-efficiency and open-source.
 
