@@ -229,17 +229,22 @@ python questions
 1)what is cloud computing, aws and GCP and web applications
 2)what is microservice
 3)what are the features of websites
-4)what is AWS, Lambda, kinasis
+4)what is AWS, Lambda, kinesis
 5)what is LLM
 6)what is vibe coding
-7)diff between gemini, chatgpt, perplexity, and groak AI and deepseek
+7)diff between gemini, chatgpt, perplexity, and grok AI and deep seek
 
 23-10
 
 1)what is RAM and ROM
 2)what is automation?
-3)
-
-
+3)which framework is best for testing as a developer?
+4)what is the diff between SQL, MySQL, PLSQL, DB2 ?
+5)what is cloud service for sql, MySQL?
+6)what is connection and database connection pooling
+7)what is open source contribution and how to do it step by step process?
+8)what is the diff b/w var and varchar in sql?
+9)what is different b/w SQL, and NoSQL?
+10)
 
 
