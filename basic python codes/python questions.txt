@@ -234,7 +234,11 @@ python questions
 6)what is vibe coding
 7)diff between gemini, chatgpt, perplexity, and groak AI and deepseek
 
+23-10
 
+1)what is RAM and ROM
+2)what is automation?
+3)
 
 
 
