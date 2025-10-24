@@ -245,6 +245,5 @@ python questions
 7)what is open source contribution and how to do it step by step process?
 8)what is the diff b/w var and varchar in sql?
 9)what is different b/w SQL, and NoSQL?
-10)
 
 
