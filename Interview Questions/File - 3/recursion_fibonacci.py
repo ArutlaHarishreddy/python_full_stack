@@ -11,5 +11,4 @@ def fibonacci(n):
 n=int(input("Enter the number"))
 print(fibonacci(n))
 
-
 #recursion fibonacci
