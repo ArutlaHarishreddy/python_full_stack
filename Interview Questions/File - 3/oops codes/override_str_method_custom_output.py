@@ -9,4 +9,3 @@ class Person:
         return f"{self.name}, {self.age} years old, Lives in {self.city}."
 p1=Person("Harish",21,"Hyderabad")
 print(p1)
-    
