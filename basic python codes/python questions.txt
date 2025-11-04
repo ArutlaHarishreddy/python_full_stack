@@ -246,4 +246,12 @@ python questions
 8)what is the diff b/w var and varchar in sql?
 9)what is different b/w SQL, and NoSQL?
 
+24-10
 
+1)write a program to CPU usage of the laptop
+2)when creating database name in capital letters but it show in small letters why?
+
+04-11
+
+1)who is db administrator? what task he performs?
+2)
