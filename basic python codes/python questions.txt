@@ -256,3 +256,8 @@ python questions
 1)who is db administrator? what task he performs?
 2)what are views , stored procedures and functions?
 3)how to check weather their is a constrains?
+
+05-11
+
+1)what are constrains? learn it?
+2)
