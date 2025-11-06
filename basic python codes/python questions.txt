@@ -263,3 +263,7 @@ python questions
 2)to display all dept names?
 3)show unique job titles in the company
 4)display employee names and email address
+
+07-11
+
+1)
