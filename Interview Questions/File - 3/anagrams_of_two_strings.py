@@ -26,5 +26,5 @@ def anagram(text1,text2):
 text1="silent"
 text2="listen"
 
-print(anagram(text1,text2)) #
+print(anagram(text1,text2))
         
