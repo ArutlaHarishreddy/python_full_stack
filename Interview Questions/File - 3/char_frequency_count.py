@@ -14,7 +14,7 @@ text="programming"      #we can put what ever variable it will work
 print(char_frequency(text))
 
 
-#method-2
+#method-2     
 from collections import Counter
 def char_freq(s):
     return dict(Counter(s))
