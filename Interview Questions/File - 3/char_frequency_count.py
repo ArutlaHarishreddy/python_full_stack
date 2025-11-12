@@ -10,7 +10,7 @@ def char_frequency(s):
         else:
             freq[char]=1
     return freq
-text="programming"      #we can put what ever variable it will work
+text="programming"      #we can put what ever variable it will work 
 print(char_frequency(text))
 
 
