@@ -271,3 +271,8 @@ python questions
 3)what is asynchronous?
 4)what is JWT and cryptography?
 5)what is ORM?
+
+13-11
+
+1)what is socket and port?
+2)
