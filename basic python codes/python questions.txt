@@ -275,4 +275,6 @@ python questions
 13-11
 
 1)what is socket and port?
-2)
+2)Implement a chat application using websocket where multiple clients can send and receive m
+3)what is websocket ?
+4)
