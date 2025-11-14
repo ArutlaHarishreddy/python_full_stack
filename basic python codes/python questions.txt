@@ -275,6 +275,13 @@ python questions
 13-11
 
 1)what is socket and port?
-2)Implement a chat application using websocket where multiple clients can send and receive m
+2)Implement a chat application using WebSocket where multiple clients can send and receive messages in real-time?
 3)what is websocket ?
-4)
+4)How do to write the uni test cases?
+5)FastAPI Homeworks?
+6)
+
+14-11
+
+1)what are testing frameworks in python?
+2)what are Jenkins?
