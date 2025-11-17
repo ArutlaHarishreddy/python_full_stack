@@ -286,3 +286,9 @@ python questions
 1)what are testing frameworks in python?
 2)what are Jenkins?
 3)
+
+17-11
+
+1)what is typing library in python
+2)interview question:data time calendar
+

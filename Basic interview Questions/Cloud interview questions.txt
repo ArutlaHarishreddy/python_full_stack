@@ -91,3 +91,16 @@ ex: In a Portfolio website: Homepage, project section, skills section, 	Resume d
 
 -->DeepSeek: A Chinese AI startup producing large-language models (LLMs) and chatbots, with a focus on cost-efficiency and open-source.
 
+8)what is JWT
+-->JSON web Token is a fundamental concept for securing mainly web application and APIS.
+  -It is mainly used for securely transmitting information between parties as a JSON object. And it is commonly used in Authentication and Authorization in web applications.
+
+9)what is cryptography?
+-->It is like the protection for communicating information. It prevents from unauthorized access and ensuring confidentiality, integrity and authencity.
+
+10)what are WebSocket's?
+-->WebSocket's are used for unique endpoint for a network connection and it defines with the combination of  IP address and a port Number.
+
+11)
+
+
