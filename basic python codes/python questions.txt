@@ -294,3 +294,7 @@ python questions
 3)date time in fastapi?
 4)
 
+20-11
+
+1)what is the difference between SQLite and sqlalchemy?
+
