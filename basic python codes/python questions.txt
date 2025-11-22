@@ -297,5 +297,5 @@ python questions
 20-11
 
 1)what is the difference between SQLite and sqlalchemy?
-
+2)FastAPI Exam on Monday?
 
