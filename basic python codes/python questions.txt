@@ -299,4 +299,5 @@ python questions
 1)what is the difference between SQLite and sqlalchemy?
 2)FastAPI Exam on Monday and Mock as well?
 
-
+27-11
+deleting a single row in various platforms?
