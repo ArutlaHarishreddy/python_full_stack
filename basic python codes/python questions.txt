@@ -300,4 +300,4 @@ python questions
 2)FastAPI Exam on Monday and Mock as well?
 
 27-11
-deleting a single row in various platforms?
+deleting a single row in various platforms
