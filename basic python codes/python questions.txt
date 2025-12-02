@@ -309,4 +309,3 @@ deleting a single row in various platforms?
 4)what is data analysis?
 5)what is json, excel
 6)write a python code to convert degrees into farhenheit?
-7)
