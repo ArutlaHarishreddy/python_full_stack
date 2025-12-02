@@ -304,6 +304,9 @@ deleting a single row in various platforms?
 
 01-12
 1)what is the difference between module, package, library, frameworks?
-2)WHAT IS numpy pandas , seaborn, matplotlib ?
+2)WHAT IS numpy, pandas , seaborn, matplotlib ?
 3)what are crawlers?
-4)
+4)what is data analysis?
+5)what is json, excel
+6)write a python code to convert degrees into farhenheit?
+7)
