@@ -314,4 +314,4 @@ deleting a single row in various platforms?
 1)write the code between to print good score without pandas?
 2)print null and print the position of the null?
 3)count the number of the null from a list?
-4)
+4)for me explanation of keep="last"?
