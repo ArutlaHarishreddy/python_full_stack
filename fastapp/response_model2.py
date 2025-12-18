@@ -28,5 +28,5 @@ def get_user(user_id:int):
     for user in users_db:
         if user.id == user_id:
             return user
-    return{"error":"No user found"}
+    return{"error":"No user found"}    
 
