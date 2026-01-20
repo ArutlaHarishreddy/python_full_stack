@@ -101,6 +101,5 @@ ex: In a Portfolio website: Homepage, project section, skills section, 	Resume d
 10)what are WebSocket's?
 -->WebSocket's are used for unique endpoint for a network connection and it defines with the combination of  IP address and a port Number.
 
-11)
 
 
