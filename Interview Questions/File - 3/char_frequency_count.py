@@ -23,3 +23,9 @@ text=s.lower()
 print(char_freq(text))
 #built-in function
 
+
+def charFrequency(string,a):
+    occurance=string.count(a)
+    print(occurance)
+
+print(charFrequency("Harishreddy","a"))

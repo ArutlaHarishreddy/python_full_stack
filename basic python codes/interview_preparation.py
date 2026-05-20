@@ -69,7 +69,7 @@
 #     else:
 #         print(num,end=" ")
 
-#counting prime numbers
+# counting prime numbers
 # n=int(input("Enter any number:"))
 # a=0
 # for num in range(2,n+1):
@@ -78,7 +78,7 @@
 #             break
 #     else:
 #         a=a+1
-# print(n,"-->",10)
+# print(n,"-->",a)
 
 #printing fibonacci series
 # n=int(input("Enter any number:"))
@@ -144,8 +144,9 @@
 # print(count_vowels("Harishreddy aeiou"))
 
 #shallow copy
-import copy
-list=[[1,2],[3,4]]
-shallow_copy=copy.copy(list)
-shallow_copy[1][1]=99
-print(list)
+# import copy
+# list=[[1,2],[3,4]]
+# shallow_copy=copy.copy(list)
+# shallow_copy[1][1]=99
+# print(list)        #deep copy is opposite to the shallow copy
+
