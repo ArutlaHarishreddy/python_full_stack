@@ -64,3 +64,34 @@
 #     rev=rev*10+rem
 # print(rev)
 
+#prime number or not
+# n=int(input("Enter any number:"))
+# if n<2:
+#     print("Not Prime")
+# else:
+#     for i in range(2,n):
+#         if n%i==0:
+#             print(n,"Not Prime")
+#             break
+#     else:
+#         print("IS Prime")
+
+#printing prime numbers
+# n=int(input("Enter any number:"))
+# for num in range(2,n+1):
+#     for i in range(2,num):
+#         if num%i==0:
+#             break
+#     else:
+#         print(num)
+
+#printing prime count
+n=int(input("Enter any number:"))
+count=0
+for num in range(2,n+1):
+    for i in range(2,num):
+        if num%i==0:
+            break
+    else:
+        count+=1
+print(n,":",count)
