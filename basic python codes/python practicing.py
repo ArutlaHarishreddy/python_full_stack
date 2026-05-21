@@ -186,9 +186,22 @@
 # print(fact(5))
 
 #reverse string 
-text=input("Enter any string:")
-reverse_string=" "
-for char in text:
-    reverse_string=char+reverse_string
-print(reverse_string)
+# text=input("Enter any string:")
+# reverse_string=" "
+# for char in text:
+#     reverse_string=char+reverse_string
+# print(reverse_string)
 
+#counting vowels
+def counting_vowels(text):
+    count=0
+    vowels="AEIOUaeiou"
+    for char in text:
+        if char in vowels:
+            count=count+1
+            print(char,end=" ")
+    return count
+
+    
+
+print(counting_vowels("Harish aeioU"))
