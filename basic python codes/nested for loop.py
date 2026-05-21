@@ -1,4 +1,4 @@
-for over in range(1,11):
+for over in range(1,20):
     for balls in range(1,7):
         print("overs:",over,".",balls)
 

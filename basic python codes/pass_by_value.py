@@ -2,6 +2,6 @@
 def modify_number(num):
     num+=50
     print(f"Inside function:{num}")
-x=4
-modify_number(x)
-print(f"Outside function:{x}")
+num=4
+modify_number(num)
+print(f"Outside function:{num}")

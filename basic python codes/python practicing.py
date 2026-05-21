@@ -50,10 +50,10 @@
 # print(a)
 # print(b)
 
-# #right aligned triangle
+#right aligned triangle and middle triangle and left aligned triangle
 # rows=5
 # for i in range(1,rows+1):
-#     print(' '*(rows-i)+"*"*i)
+#     print(' '*(rows-i)+"* "*i)
 
 #reverse of a number
 # n=int(input("Enter any number:"))
@@ -95,3 +95,100 @@
 #     else:
 #         count+=1
 # print(n,":",count)
+
+# #pass by value
+# def modify_number(num):
+#     num=num+50
+#     print("Inside function:",num)
+# num=3
+# modify_number(num)
+# print("Outside function:",num)
+
+#pass by reference
+# def modify_list(my_list):
+#     my_list.append(4)
+#     print("Inside function:",my_list)
+# my_list=[1,2,3]
+# modify_list(my_list)
+# print("Outside function:",my_list)
+
+#palindrome
+# n=int(input("Enter any number:"))
+# original=n
+# rev=0
+# while n>0:
+#     rem=n%10
+#     n=n//10
+#     rev=rev*10+rem
+# print(rev)
+# if original==rev:
+#     print("Palindrome")
+# else:
+#     print("Not Palindrome")
+
+#nested for loop
+# for over in range(1,20):
+#     for ball in range(1,7):
+#         print("overs:",over,".",ball)
+
+#left aligned triangle
+# row=5
+# for i in range(1,row+1):
+#     print("* "*i)
+
+#printing fibonacci series
+# n=int(input("Enter any number:"))
+# a=0
+# b=1
+# for i in range(n):
+#     print(a,end=' ')
+#     c=a+b
+#     a=b
+#     b=c
+
+#stars triangles
+# row=5
+# for i in range(1,row+1):
+#     print(" "*(row-i)+"* "*i)
+
+#printing even numbers up to n
+# n=int(input("Enter any number:"))
+# for i in range(1,n+1):
+#     if i%2==0:
+#         print(i,end=" ")
+
+#even number
+# n=int(input("Enter any number:"))
+# if n%2==0:
+#     print("Even")
+# else:
+#     print("Not even")
+
+#filtering even numbers
+# x=[1,2,3,4,5,6,7,8,9,10]
+# for i in x:
+#     if i%2==0:
+#         print(i,end=" ")
+
+#factorial
+# n=int(input("Enter any number:"))
+# fact=1
+# for i in range(1,n+1):
+#     fact=fact*i
+# print(fact) 
+
+#recursion 
+# def fact(n):
+#     if n<2:
+#         return 1
+#     else:
+#         return n*fact(n-1)
+# print(fact(5))
+
+#reverse string 
+text=input("Enter any string:")
+reverse_string=" "
+for char in text:
+    reverse_string=char+reverse_string
+print(reverse_string)
+

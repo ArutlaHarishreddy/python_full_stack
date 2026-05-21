@@ -5,6 +5,6 @@ def outer():
         x=20
         print("Inner:",x)
     inner()
-    print("Outer",x)
+    print("Outer:",x)
 outer()
 # print(x)  here x is not defined if you run this code
