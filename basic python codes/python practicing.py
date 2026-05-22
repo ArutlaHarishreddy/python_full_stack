@@ -193,15 +193,41 @@
 # print(reverse_string)
 
 #counting vowels
-def counting_vowels(text):
-    count=0
-    vowels="AEIOUaeiou"
-    for char in text:
-        if char in vowels:
-            count=count+1
-            print(char,end=" ")
-    return count
+# def counting_vowels(text):
+#     count=0
+#     vowels="AEIOUaeiou"
+#     for char in text:
+#         if char in vowels:
+#             count=count+1
+#     return count
+# print(counting_vowels("Harish aeioU"))
 
-    
+# shallow copy
+# import copy
+# list=[[1,2],[3,4]]
+# shallow_copy=copy.copy(list)
+# shallow_copy[0][1]=99
+# print(list)
 
-print(counting_vowels("Harish aeioU"))
+#deep copy
+# import copy
+# list2=[[1,2],[3,4]]
+# deep_copy=copy.deepcopy(list2)
+# deep_copy[1][1]=0
+# print(deep_copy)
+
+#diamond triangle
+# row=5
+# for i in range(1,row+1):
+#     print(" "*(row-i)+"* "*i)
+
+#counting elements frequency in tuple
+# tuple=(1,2,3,4,5,68,4,2,4,5,4,32,5,7,3)
+# freq={}
+# for item in tuple:
+#     if item in freq:
+#         freq[item]+=1
+#     else:
+#         freq[item]=1
+# print(freq)
+
