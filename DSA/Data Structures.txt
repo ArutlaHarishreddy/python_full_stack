@@ -1,3 +1,7 @@
 Data Structures
 
 1)Heap soring.
+2)Directed graph and Undirected graph.
+3)Bipartite graph
+4)Hash map
+5)
