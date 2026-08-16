@@ -4,4 +4,6 @@ Data Structures
 2)Directed graph and Undirected graph.
 3)Bipartite graph
 4)Hash map
-5)
+5)single linked list, Double
+6)Sorting 
+7)Linear Search and Binary Search
