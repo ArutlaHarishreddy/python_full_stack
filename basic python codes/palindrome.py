@@ -1,4 +1,4 @@
-n=int(input())
+n=int(input("Enter any number:"))
 original=n
 rev=0
 while n>0:
@@ -7,6 +7,7 @@ while n>0:
     rev=rev*10+rem
 print(rev)
 if original==rev:
-    print("Palindrome")
+    print("Is Palindrome")
 else:
-    print("Not Palindrome")
+    print("Not a Palindrome")
+
